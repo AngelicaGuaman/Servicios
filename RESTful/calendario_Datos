@@ -1,0 +1,12 @@
+INSERT INTO `calendarBBDD`.`Calendario` (`idCalendario`, `nombreCalendario`, `visibilidad`, `Usuario_idUsuario`) VALUES ('201', 'Calendario1', '1', '101');
+INSERT INTO `calendarBBDD`.`Calendario` (`idCalendario`, `nombreCalendario`, `visibilidad`, `Usuario_idUsuario`) VALUES ('202', 'Calendario2', '1', '101');
+INSERT INTO `calendarBBDD`.`Calendario` (`idCalendario`, `nombreCalendario`, `visibilidad`, `Usuario_idUsuario`) VALUES ('203', 'Calendario3', '0', '101');
+INSERT INTO `calendarBBDD`.`Calendario` (`idCalendario`, `nombreCalendario`, `visibilidad`, `Usuario_idUsuario`) VALUES ('204', 'Calendario4', '1', '102');
+INSERT INTO `calendarBBDD`.`Calendario` (`idCalendario`, `nombreCalendario`, `visibilidad`, `Usuario_idUsuario`) VALUES ('205', 'Calendario5', '1', '102');
+INSERT INTO `calendarBBDD`.`Calendario` (`idCalendario`, `nombreCalendario`, `visibilidad`, `Usuario_idUsuario`) VALUES ('206', 'Calendario6', '1', '102');
+INSERT INTO `calendarBBDD`.`Calendario` (`idCalendario`, `nombreCalendario`, `visibilidad`, `Usuario_idUsuario`) VALUES ('207', 'Calendario7', '0', '103');
+INSERT INTO `calendarBBDD`.`Calendario` (`idCalendario`, `nombreCalendario`, `visibilidad`, `Usuario_idUsuario`) VALUES ('208', 'Calendario8', '0', '103');
+INSERT INTO `calendarBBDD`.`Calendario` (`idCalendario`, `nombreCalendario`, `visibilidad`, `Usuario_idUsuario`) VALUES ('209', 'Calendario9', '0', '103');
+INSERT INTO `calendarBBDD`.`Calendario` (`idCalendario`, `nombreCalendario`, `visibilidad`, `Usuario_idUsuario`) VALUES ('210', 'Calendario10', '1', '104');
+INSERT INTO `calendarBBDD`.`Calendario` (`idCalendario`, `nombreCalendario`, `visibilidad`, `Usuario_idUsuario`) VALUES ('211', 'Calendario11', '0', '104');
+

@@ -1,0 +1,6 @@
+INSERT INTO `calendarBBDD`.`Cita` (`idCita`, `nombreCita`, `fecha`, `Calendario_idCalendario`) VALUES ('301', 'Cita1', '2014-01-10', '201');
+INSERT INTO `calendarBBDD`.`Cita` (`idCita`, `nombreCita`, `fecha`, `Calendario_idCalendario`) VALUES ('302', 'Cita2', '2014-05-07', '201');
+INSERT INTO `calendarBBDD`.`Cita` (`idCita`, `nombreCita`, `fecha`, `Calendario_idCalendario`) VALUES ('303', 'Cita3', '2014-03-12', '201');
+INSERT INTO `calendarBBDD`.`Cita` (`idCita`, `nombreCita`, `fecha`, `Calendario_idCalendario`) VALUES ('304', 'Cita4', '2014-04-04', '202');
+INSERT INTO `calendarBBDD`.`Cita` (`idCita`, `nombreCita`, `fecha`, `Calendario_idCalendario`) VALUES ('305', 'Cita5', '2014-06-01', '202');
+INSERT INTO `calendarBBDD`.`Cita` (`idCita`, `nombreCita`, `fecha`, `Calendario_idCalendario`) VALUES ('306', 'Cita6', '2015-07-08', '202');

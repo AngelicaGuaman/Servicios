@@ -1,0 +1,7 @@
+INSERT INTO `calendarBBDD`.`Usuario` (`idUsuario`, `nombre`, `apellido1`, `apellido2`, `telefono`, `direccion`) VALUES ('101', 'Angelica', 'Guaman', 'Albarracin', '611223344', 'C/ Hortensia');
+INSERT INTO `calendarBBDD`.`Usuario` (`idUsuario`, `nombre`, `apellido1`, `apellido2`, `telefono`, `direccion`) VALUES ('102', 'Ruth', 'Guaman', 'Albarracin', '622334455', 'C/ Blasco Jimeno');
+INSERT INTO `calendarBBDD`.`Usuario` (`idUsuario`, `nombre`, `apellido1`, `apellido2`, `telefono`, `direccion`) VALUES ('103', 'Mayra', 'Rivas', 'Suasnavas', '633445566', 'C/ Vera');
+INSERT INTO `calendarBBDD`.`Usuario` (`idUsuario`, `nombre`, `apellido1`, `apellido2`, `telefono`, `direccion`) VALUES ('104', 'Christian', 'Guaman', 'Cocha', '644556677', 'C/ Atocha');
+INSERT INTO `calendarBBDD`.`Usuario` (`idUsuario`, `nombre`, `apellido1`, `apellido2`, `telefono`, `direccion`) VALUES ('105', 'Jose', 'Rincon', 'Quintero', '655667788', 'C/ Lechuga');
+INSERT INTO `calendarBBDD`.`Usuario` (`idUsuario`, `nombre`, `apellido1`, `apellido2`, `telefono`, `direccion`) VALUES ('106', 'Jose', 'Rincon', 'Rojas', '666778899', 'C/ Miranda');
+INSERT INTO `calendarBBDD`.`Usuario` (`idUsuario`, `nombre`, `apellido1`, `apellido2`, `telefono`, `direccion`) VALUES ('107', 'Ernesto', 'Rincon', 'Rojas', '677889900', 'C/ Virgen de la Vega');
